@@ -1,0 +1,14 @@
+C:\Users\Jesus\source\repos\C#_Projects\UnitTest_CS_Types\UnitTest_CS_Types\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Jesus\source\repos\C#_Projects\UnitTest_CS_Types\UnitTest_CS_Types\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Jesus\source\repos\C#_Projects\UnitTest_CS_Types\UnitTest_CS_Types\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Jesus\source\repos\C#_Projects\UnitTest_CS_Types\UnitTest_CS_Types\bin\Debug\UnitTest_CS_Types.dll
+C:\Users\Jesus\source\repos\C#_Projects\UnitTest_CS_Types\UnitTest_CS_Types\bin\Debug\UnitTest_CS_Types.pdb
+C:\Users\Jesus\source\repos\C#_Projects\UnitTest_CS_Types\UnitTest_CS_Types\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Jesus\source\repos\C#_Projects\UnitTest_CS_Types\UnitTest_CS_Types\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Jesus\source\repos\C#_Projects\UnitTest_CS_Types\UnitTest_CS_Types\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Jesus\source\repos\C#_Projects\UnitTest_CS_Types\UnitTest_CS_Types\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Jesus\source\repos\C#_Projects\UnitTest_CS_Types\UnitTest_CS_Types\obj\Debug\UnitTest_CS_Types.csprojAssemblyReference.cache
+C:\Users\Jesus\source\repos\C#_Projects\UnitTest_CS_Types\UnitTest_CS_Types\obj\Debug\UnitTest_CS_Types.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\source\repos\C#_Projects\UnitTest_CS_Types\UnitTest_CS_Types\obj\Debug\UnitTest_CS_Types.csproj.CopyComplete
+C:\Users\Jesus\source\repos\C#_Projects\UnitTest_CS_Types\UnitTest_CS_Types\obj\Debug\UnitTest_CS_Types.dll
+C:\Users\Jesus\source\repos\C#_Projects\UnitTest_CS_Types\UnitTest_CS_Types\obj\Debug\UnitTest_CS_Types.pdb
