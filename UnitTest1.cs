@@ -47,5 +47,17 @@ namespace UnitTest_CS_Types
             Assert.IsTrue(firstInvoice.ID == 5);
         }
 
+        [TestMethod]
+        public void ValueTypeTest()
+        {
+            int x = 5;
+            int y = x;
+
+            y = 10;
+
+            Assert.IsTrue(x == 5);
+            Assert.IsTrue(y == 10);
+        }
+
     }
 }
