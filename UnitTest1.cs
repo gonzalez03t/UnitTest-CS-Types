@@ -90,5 +90,26 @@ namespace UnitTest_CS_Types
             Assert.IsTrue(name.Equals("Jesus", StringComparison.CurrentCulture));
         }
 
+        [TestMethod]
+        public void ArrayTest()
+        {
+            string[] names = new string[4];
+            names[0] = "Scott";
+            names[1] = "Aaron";
+            names[2] = "Fritz";
+            names[3] = "Matt";
+
+            ChangeName(names);
+
+            int index = Array.IndexOf(names, "Fritz");
+
+            Assert.IsTrue(names[0] == "Allen");
+            Assert.IsTrue(names[2] == "Fritz");
+        }
+
+        private void ChangeName(string[] names)
+        {
+            names[0] = "Allen";
+        }
     }
 }
