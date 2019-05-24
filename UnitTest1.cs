@@ -3,15 +3,11 @@ using System.Text;
 using System.Collections.Generic;
 using System.Linq;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using InvoiceLibrary;
 
 namespace UnitTest_CS_Types
 {
-    public class Invoice
-    {
-        public int ID { get; set; }
-        public string Description { get; set; }
-        public decimal Amount { get; set; }
-    }
+
 
     [TestClass]
     public class ReferenceTypesAndValueTypes

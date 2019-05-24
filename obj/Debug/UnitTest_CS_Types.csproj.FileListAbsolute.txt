@@ -12,3 +12,5 @@ C:\Users\Jesus\source\repos\C#_Projects\UnitTest_CS_Types\UnitTest_CS_Types\obj\
 C:\Users\Jesus\source\repos\C#_Projects\UnitTest_CS_Types\UnitTest_CS_Types\obj\Debug\UnitTest_CS_Types.csproj.CopyComplete
 C:\Users\Jesus\source\repos\C#_Projects\UnitTest_CS_Types\UnitTest_CS_Types\obj\Debug\UnitTest_CS_Types.dll
 C:\Users\Jesus\source\repos\C#_Projects\UnitTest_CS_Types\UnitTest_CS_Types\obj\Debug\UnitTest_CS_Types.pdb
+C:\Users\Jesus\source\repos\C#_Projects\UnitTest_CS_Types\UnitTest_CS_Types\bin\Debug\InvoiceLibrary.dll
+C:\Users\Jesus\source\repos\C#_Projects\UnitTest_CS_Types\UnitTest_CS_Types\bin\Debug\InvoiceLibrary.pdb
