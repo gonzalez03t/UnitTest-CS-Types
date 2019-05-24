@@ -80,5 +80,15 @@ namespace UnitTest_CS_Types
             value = 3;
         }
 
+        [TestMethod]
+        public void StringTest()
+        {
+            string name = " Jesus ";
+
+            name = name.Trim(); //Remove all leading and trailing white spaces
+
+            Assert.IsTrue(name.Equals("Jesus", StringComparison.CurrentCulture));
+        }
+
     }
 }
