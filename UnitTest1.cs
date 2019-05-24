@@ -59,5 +59,26 @@ namespace UnitTest_CS_Types
             Assert.IsTrue(y == 10);
         }
 
+        [TestMethod]
+        public void PassByValue()
+        {
+            Invoice invoice = new Invoice();
+            invoice.ID = 1;
+            int value;
+
+            DoWork(ref invoice, out value);
+
+            Assert.IsTrue(invoice.ID == 5);
+            Assert.IsTrue(value == 3);
+        }
+
+        void DoWork(ref Invoice invoice, out int value)
+        {
+            invoice = new Invoice();
+            invoice.ID = 5;
+
+            value = 3;
+        }
+
     }
 }
